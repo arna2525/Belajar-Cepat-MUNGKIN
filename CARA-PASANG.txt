@@ -1,0 +1,16 @@
+NIHONGO QUEST + AI — CARA PASANG
+
+PENTING: Jangan taruh API key di index.html atau kirim API key ke chat.
+
+1. Unggah isi folder ini ke repository GitHub (index.html, netlify.toml, dan folder netlify/functions/tutor.mjs).
+2. Di Netlify, pilih Add new project / Import an existing project, lalu hubungkan repository GitHub itu.
+3. Pada pengaturan site Netlify buka Environment variables (atau Project configuration > Environment variables).
+4. Tambahkan variabel bernama OPENAI_API_KEY dengan nilai API key milikmu. Simpan.
+5. Jalankan deploy ulang. Tunggu sampai deploy sukses.
+6. Buka website dan tekan “🤖 Koreksi dengan AI”.
+
+API key dibuat dan dikelola di https://platform.openai.com/api-keys. Penggunaan API ditagih terpisah dari langganan ChatGPT. Pastikan metode pembayaran/credits tersedia dan atur batas penggunaan/alert di dashboard OpenAI.
+
+Untuk menghindari biaya tak terduga, mulai dengan saldo kecil dan pantau pemakaian. Model yang digunakan di paket ini: gpt-6-luna. Jika model tidak tersedia pada akun API, ubah nama model di netlify/functions/tutor.mjs ke model yang tersedia di akunmu.
+
+Jika site lama hanya dibuat dengan drag-and-drop, fungsi backend tidak akan aktif hanya dengan mengganti HTML lama. Deploy lewat repository GitHub agar Netlify membangun fungsi server.
