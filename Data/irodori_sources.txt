@@ -1,0 +1,6 @@
+Sumber resmi untuk daftar lengkap (unduh dari halaman):
+IRODORI Indonesia, Halaman Pemelajar: https://sites.google.com/view/jf-irodori/halaman-pemelajar
+IRODORI Indonesia, Halaman Pengajar: https://sites.google.com/view/jf-irodori/halaman-pengajar
+IRODORI English resources: https://www.irodori.jpf.go.jp/en/resources.html
+
+Catatan: CSV sample di folder data adalah set belajar terkurasi, bukan salinan lengkap daftar resmi. Untuk daftar lengkap, unduh PDF daftar kosakata Tingkat Dasar 1/2 dan Daftar Kanji dari halaman resmi.

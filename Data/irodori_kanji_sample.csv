@@ -1,0 +1,532 @@
+﻿kanji,bacaan_umum,arti_indonesia,contoh_kosakata
+忘,ボウ・わすれる,lupa,忘れる（わすれる）
+覚,カク・おぼえる,mengingat; sadar,覚える（おぼえる）
+教,キョウ・おしえる,mengajar,教える（おしえる）
+文,ブン・もん,kalimat; tulisan,文章（ぶんしょう）
+味,ミ・あじ,rasa; makna,意味（いみ）
+意,イ,niat; maksud,意味（いみ）
+答,トウ・こたえる,menjawab,答え（こたえ）
+問,モン・とう,pertanyaan,質問（しつもん）
+質,シツ,mutu; sifat,質問（しつもん）
+習,シュウ・ならう,belajar; kebiasaan,習う（ならう）
+練,レン,melatih,練習（れんしゅう）
+強,キョウ・つよい,kuat,勉強（べんきょう）
+勉,ベン,berusaha,勉強（べんきょう）
+終,シュウ・おわる,selesai,終わる（おわる）
+始,シ・はじまる,mulai,始まる（はじまる）
+元,ゲン・もと,asal; dasar,元気（げんき）
+痛,ツウ・いたい,sakit; nyeri,痛い（いたい）
+邪,ジャ,jahat; unsur buruk,風邪（かぜ）
+風,フウ・かぜ,angin,風邪（かぜ）
+熱,ネツ・あつい,panas; demam,熱（ねつ）
+体,タイ・からだ,tubuh,体（からだ）
+頭,トウ・あたま,kepala,頭（あたま）
+軽,ケイ・かるい,ringan,軽い（かるい）
+重,ジュウ・おもい,berat/penting,重い（おもい）
+近,キン・ちかい,dekat,近い（ちかい）
+遠,エン・とおい,jauh,遠い（とおい）
+号,ゴウ,nomor,番号（ばんごう）
+番,バン,nomor/urutan,番号（ばんごう）
+地,チ・ジ,tanah/tempat,地下（ちか）
+図,ズ・ト,gambar/peta,地図（ちず）
+館,カン,gedung,図書館（としょかん）
+屋,オク・や,toko/atap,本屋（ほんや）
+押,オウ・おす,menekan,押す（おす）
+拾,シュウ・ひろう,memungut,拾う（ひろう）
+打,ダ・う,memukul,打つ（うつ）
+持,ジ・も,membawa,持つ（もつ）
+洗,セン・あらう,mencuci,洗う（あらう）
+池,チ・いけ,kolam,池（いけ）
+海,カイ・うみ,laut,海（うみ）
+空,クウ・そら,langit/kosong,空（そら）
+石,セキ・いし,batu,石（いし）
+森,シン・もり,hutan,森（もり）
+林,リン・はやし,hutan kecil,林（はやし）
+草,ソウ・くさ,rumput,草（くさ）
+花,カ・はな,bunga,花（はな）
+猫,ビョウ・ねこ,kucing,猫（ねこ）
+犬,ケン・いぬ,anjing,犬（いぬ）
+鳥,チョウ・とり,burung,鳥（とり）
+魚,ギョ・さかな,ikan,魚（さかな）
+肉,ニク,daging,牛肉（ぎゅうにく）
+薬,ヤク・くすり,obat,薬（くすり）
+者,シャ・もの,orang,医者（いしゃ）
+医,イ,medis/dokter,医者（いしゃ）
+員,イン,anggota/pegawai,会社員（かいしゃいん）
+族,ゾク,keluarga/klan,家族（かぞく）
+家,カ・いえ,rumah,家（いえ）
+所,ショ・ところ,tempat,住所（じゅうしょ）
+住,ジュウ・すむ,tinggal,住む（すむ）
+座,ザ・すわる,duduk,座る（すわる）
+立,リツ・た,berdiri,立つ（たつ）
+出,シュツ・で,keluar,出る（でる）
+入,ニュウ・はい,masuk,入る（はいる）
+曜,ヨウ,hari dalam pekan,月曜日（げつようび）
+明,メイ・あか,terang,明るい（あかるい）
+早,ソウ・はや,awal/cepat,早い（はやい）
+母,ボ・はは,ibu,母（はは）
+父,フ・ちち,ayah,父（ちち）
+子,シ・こ,anak,子ども（こども）
+女,ジョ・おんな,perempuan,女の人（おんなのひと）
+男,ダン・おとこ,laki-laki,男の人（おとこのひと）
+力,リョク・ちから,tenaga,力（ちから）
+耳,ジ・みみ,telinga,耳（みみ）
+口,コウ・くち,mulut,口（くち）
+目,モク・め,mata,目（め）
+足,ソク・あし,kaki,足（あし）
+手,シュ・て,tangan,手（て）
+青,セイ・あお,biru,青い（あおい）
+赤,セキ・あか,merah,赤い（あかい）
+黒,コク・くろ,hitam,黒い（くろい）
+白,ハク・しろ,putih,白い（しろい）
+長,チョウ・なが,panjang/pemimpin,長い（ながい）
+少,ショウ・すく,sedikit,少ない（すくない）
+多,タ・おお,banyak,多い（おおい）
+古,コ・ふる,lama/tua,古い（ふるい）
+新,シン・あたら,baru,新しい（あたらしい）
+安,アン・やす,murah/aman,安全（あんぜん）
+高,コウ・たか,tinggi/mahal,高い（たかい）
+小,ショウ・ちい,kecil,小さい（ちいさい）
+大,ダイ・おお,besar,大切（たいせつ）
+何,カ・なに,apa,何（なに）
+間,カン・あいだ,interval/antara,時間（じかん）
+午,ゴ,siang,午前（ごぜん）
+後,ゴ・あと,belakang/setelah,午後（ごご）
+前,ゼン・まえ,depan/sebelum,名前（なまえ）
+名,メイ・な,nama,名前（なまえ）
+友,ユウ・とも,teman,友だち（ともだち）
+毎,マイ,setiap,毎日（まいにち）
+週,シュウ,minggu,先週（せんしゅう）
+先,セン・さき,sebelum; depan,先生（せんせい）
+作,サク・つく,membuat,作る（つくる）
+場,ジョウ・ば,tempat,工場（こうじょう）
+工,コウ,kerajinan/industri,工場（こうじょう）
+働,ドウ・はたら,bekerja,働く（はたらく）
+事,ジ・こと,hal/perkara,仕事（しごと）
+仕,シ,melayani/pekerjaan,仕事（しごと）
+院,イン,institusi,病院（びょういん）
+病,ビョウ,sakit,病院（びょういん）
+駅,エキ,stasiun,駅（えき）
+店,テン・みせ,toko,店（みせ）
+社,シャ,perusahaan/masyarakat,会社（かいしゃ）
+会,カイ・あ,bertemu/pertemuan,会社（かいしゃ）
+休,キュウ・やす,istirahat/libur,休み（やすみ）
+帰,キ・かえ,pulang,帰る（かえる）
+来,ライ・く,datang,来る（くる）
+行,コウ・い,pergi,行く（いく）
+買,バイ・か,membeli,買う（かう）
+話,ワ・はな,bicara,話す（はなす）
+書,ショ・か,menulis,書く（かく）
+読,ドク・よ,membaca,読む（よむ）
+聞,ブン・き,mendengar/bertanya,聞く（きく）
+見,ケン・み,melihat,見る（みる）
+飲,イン・の,minum,飲む（のむ）
+食,ショク・た,makan,食べる（たべる）
+道,ドウ・みち,jalan,道（みち）
+車,シャ・くるま,kendaraan,車（くるま）
+電,デン,listrik,電車（でんしゃ）
+雨,ウ・あめ,hujan,雨（あめ）
+気,キ,perasaan/energi,元気（げんき）
+天,テン,langit,天気（てんき）
+田,デン・た,sawah,田んぼ（たんぼ）
+川,セン・かわ,sungai,川（かわ）
+山,サン・やま,gunung,山（やま）
+北,ホク・きた,utara,北（きた）
+南,ナン・みなみ,selatan,南（みなみ）
+西,セイ・にし,barat,西（にし）
+東,トウ・ひがし,timur,東京（とうきょう）
+左,サ・ひだり,kiri,左（ひだり）
+右,ウ・みぎ,kanan,右（みぎ）
+外,ガイ・そと,luar,外国（がいこく）
+中,チュウ・なか,dalam/tengah,中（なか）
+下,カ・した,bawah,下（した）
+上,ジョウ・うえ,atas,上（うえ）
+万,マン,sepuluh ribu,一万円（いちまんえん）
+千,セン,seribu,千円（せんえん）
+百,ヒャク,seratus,百円（ひゃくえん）
+円,エン,yen; lingkaran,百円（ひゃくえん）
+国,コク・くに,negara,外国（がいこく）
+本,ホン・もと,buku; asal,本（ほん）
+語,ゴ・かた,bahasa/kata,日本語（にほんご）
+校,コウ,sekolah,学校（がっこう）
+学,ガク・まな,belajar,学校（がっこう）
+生,セイ・い,hidup; lahir,学生（がくせい）
+今,コン・いま,sekarang,今日（きょう）
+半,ハン・なか,setengah,半年（はんとし）
+分,フン・わ,menit; bagian,五分（ごふん）
+時,ジ・とき,waktu/jam,時間（じかん）
+年,ネン・とし,tahun,今年（ことし）
+人,ジン・ひと,orang,日本人（にほんじん）
+土,ド・つち,tanah,土曜日（どようび）
+金,キン・かね,emas; uang,お金（おかね）
+木,モク・き,pohon/kayu,木曜日（もくようび）
+水,スイ・みず,air,水曜日（すいようび）
+火,カ・ひ,api,火曜日（かようび）
+月,ゲツ・つき,bulan,月曜日（げつようび）
+日,ニチ・ひ,hari; matahari,日本（にほん）
+信,シン,percaya; sinyal,信号（しんごう）
+交,コウ・まじわる,bertemu; menyilang,交差点（こうさてん）
+差,サ・さす,perbedaan; selisih,交差点（こうさてん）
+点,テン,titik; poin,交差点（こうさてん）
+歩,ホ・あるく,berjalan,歩く（あるく）
+走,ソウ・はしる,berlari,走る（はしる）
+乗,ジョウ・のる,naik,乗る（のる）
+降,コウ・おりる,turun; hujan turun,降りる（おりる）
+郵,ユウ,pos,郵便局（ゆうびんきょく）
+便,ベン・ビン,kemudahan; surat,郵便局（ゆうびんきょく）
+局,キョク,kantor; biro,郵便局（ゆうびんきょく）
+銀,ギン,perak,銀行（ぎんこう）
+財布,サイフ,dompet,財布（さいふ）
+注,チュウ,menuangkan; perhatian,注文（ちゅうもん）
+菜,サイ・な,sayuran,野菜（やさい）
+牛,ギュウ・うし,sapi,牛乳（ぎゅうにゅう）
+乳,ニュウ・ちち,susu,牛乳（ぎゅうにゅう）
+眠,ミン・ねむる,tidur; mengantuk,眠い（ねむい）
+疲,ヒ・つかれる,lelah,疲れる（つかれる）
+雪,セツ・ゆき,salju,雪（ゆき）
+暑,ショ・あつい,panas,暑い（あつい）
+寒,カン・さむい,dingin,寒い（さむい）
+季,キ,musim,季節（きせつ）
+節,セツ・ふし,musim; bagian,季節（きせつ）
+写,シャ・うつす,menyalin; memotret,写真（しゃしん）
+真,シン・ま,benar; asli,写真（しゃしん）
+旅,リョ・たび,perjalanan,旅行（りょこう）
+予,ヨ,sebelum; persiapan,予約（よやく）
+約,ヤク,janji; kira-kira,約束（やくそく）
+切,セツ・きる,memotong,切符（きっぷ）
+連,レン・つれる,menghubungkan,連絡（れんらく）
+絡,ラク,berjalin; menghubungi,連絡（れんらく）
+受,ジュ・うける,menerima,受付（うけつけ）
+付,フ・つける,menempel; memberi,受付（うけつけ）
+申,シン・もうす,mengajukan; mengatakan,申込書（もうしこみしょ）
+込,こむ,masuk; penuh,申込書（もうしこみしょ）
+必,ヒツ・かならず,pasti; wajib,必要（ひつよう）
+要,ヨウ・いる,penting; perlu,必要（ひつよう）
+落,ラク・おちる,jatuh,落とす（おとす）
+探,タン・さがす,mencari,探す（さがす）
+直,チョク・なおす,memperbaiki; lurus,直す（なおす）
+壊,カイ・こわれる,rusak,壊れる（こわれる）
+開,カイ・あく,membuka,開く（あく）
+閉,ヘイ・しまる,menutup,閉まる（しまる）
+遅,チ・おくれる,terlambat,遅れる（おくれる）
+急,キュウ・いそぐ,tergesa; mendadak,急ぐ（いそぐ）
+残,ザン・のこる,tersisa,残業（ざんぎょう）
+業,ギョウ・わざ,pekerjaan; usaha,作業（さぎょう）
+全,ゼン・まったく,seluruh; lengkap,安全（あんぜん）
+危,キ・あぶない,bahaya,危険（きけん）
+険,ケン,bahaya; curam,危険（きけん）
+確,カク・たしか,pasti; memastikan,確認（かくにん）
+認,ニン・みとめる,mengakui; memeriksa,確認（かくにん）
+説,セツ・とく,menjelaskan,説明（せつめい）
+準,ジュン,standar; persiapan,準備（じゅんび）
+備,ビ・そなえる,mempersiapkan,準備（じゅんび）
+片,ヘン・かた,sebelah; satu sisi,片付ける（かたづける）
+掃,ソウ・はく,menyapu,掃除（そうじ）
+甘,カン・あまい,manis,甘い（あまい）
+辛,シン・からい,pedas; keras,辛い（からい）
+塩,エン・しお,garam,塩（しお）
+糖,トウ,gula,砂糖（さとう）
+計,ケイ・はかる,menghitung,会計（かいけい）
+現,ゲン・あらわれる,sekarang; nyata,現金（げんきん）
+払,フツ・はらう,membayar,払う（はらう）
+値,チ・ね,nilai; harga,値段（ねだん）
+段,ダン,tingkat; langkah,値段（ねだん）
+調,チョウ・しらべる,kondisi; menyelidiki,体調（たいちょう）
+咳,セキ,batuk,咳（せき）
+配,ハイ・くばる,membagi; perhatian,心配（しんぱい）
+曇,ドン・くもる,berawan,曇り（くもり）
+台,ダイ,alas; mesin,台風（たいふう）
+震,シン・ふるえる,gempa; bergetar,地震（じしん）
+避,ヒ・さける,menghindari,避難（ひなん）
+難,ナン・むずかしい,sulit; bencana,避難（ひなん）
+定,テイ・さだめる,menetapkan,予定（よてい）
+験,ケン,pengujian; pengalaman,経験（けいけん）
+合,ゴウ・あう,cocok; bergabung,合格（ごうかく）
+格,カク,status; standar,合格（ごうかく）
+試,シ・ためす,mencoba; ujian,試験（しけん）
+通,ツウ・とおる,melewati; lalu lintas,通学（つうがく）
+顔,ガン・かお,wajah,顔（かお）
+心,シン・こころ,hati; pikiran,心（こころ）
+声,セイ・こえ,suara,声（こえ）
+音,オン・おと,bunyi; suara,音楽（おんがく）
+歌,カ・うた,lagu; bernyanyi,歌（うた）
+料,リョウ,bahan; biaya,料理（りょうり）
+理,リ,alasan; logika,料理（りょうり）
+服,フク,pakaian,服（ふく）
+着,チャク・きる,memakai; tiba,着る（きる）
+色,ショク・いろ,warna,色（いろ）
+経,ケイ・へる,melewati; mengelola,経験（けいけん）
+運,ウン・はこぶ,membawa; keberuntungan,運転（うんてん）
+故,コ・ゆえ,sebab; almarhum,故障（こしょう）
+障,ショウ・さわる,gangguan; hambatan,故障（こしょう）
+修,シュウ・おさめる,memperbaiki; belajar,修理（しゅうり）
+欠,ケツ・かける,kurang; absen,欠席（けっせき）
+席,セキ,kursi; tempat duduk,出席（しゅっせき）
+由,ユウ・よし,sebab; asal,理由（りゆう）
+最,サイ・もっとも,paling,最近（さいきん）
+特,トク,khusus,特に（とくに）
+変,ヘン・かわる・かえる,berubah; mengubah,変更（へんこう）
+検,ケン,memeriksa,点検（てんけん）
+氏,シ・うじ,marga; nama keluarga,氏名（しめい）
+身,シン・み,tubuh; diri,身分（みぶん）
+証,ショウ,bukti; sertifikat,証明書（しょうめいしょ）
+健,ケン,sehat,健康（けんこう）
+康,コウ,sehat,健康（けんこう）
+診,シン・みる,memeriksa pasien,診察（しんさつ）
+察,サツ,mengamati; memeriksa,診察（しんさつ）
+処,ショ,menangani; tempat,処方箋（しょほうせん）
+方,ホウ・かた,arah; cara,処方箋（しょほうせん）
+箋,セン,kertas/formulir,処方箋（しょほうせん）
+刻,コク・きざむ,mengukir; saat,遅刻（ちこく）
+退,タイ・しりぞく,mundur; pulang lebih awal,早退（そうたい）
+勤,キン・つとめる,bekerja; rajin,勤務（きんむ）
+給,キュウ,memberi; gaji,給料（きゅうりょう）
+費,ヒ,biaya,交通費（こうつうひ）
+憩,ケイ・いこい,istirahat; rehat,休憩（きゅうけい）
+室,シツ・むろ,ruangan,会議室（かいぎしつ）
+議,ギ,diskusi; rapat,会議（かいぎ）
+資,シ,sumber daya; bahan,資料（しりょう）
+報,ホウ・むくいる,laporan; memberitakan,報告（ほうこく）
+告,コク・つげる,memberitahu,報告（ほうこく）
+換,カン・かえる,menukar,交換（こうかん）
+部,ブ,bagian,部品（ぶひん）
+品,ヒン・しな,barang; kualitas,部品（ぶひん）
+庫,コ,gudang,倉庫（そうこ）
+倉,ソウ・くら,gudang,倉庫（そうこ）
+在,ザイ・ある,ada; berada,在庫（ざいこ）
+送,ソウ・おくる,mengirim,配送（はいそう）
+返,ヘン・かえす,mengembalikan,返品（へんぴん）
+往,オウ,pergi,往復（おうふく）
+復,フク,kembali; ulang,往復（おうふく）
+満,マン・みちる,penuh,満席（まんせき）
+延,エン・のびる,memperpanjang; tertunda,遅延（ちえん）
+停,テイ,berhenti,停電（ていでん）
+断,ダン・たつ,memutus; menolak,断水（だんすい）
+燃,ネン・もえる,terbakar,燃える（もえる）
+捨,シャ・すてる,membuang,捨てる（すてる）
+別,ベツ・わかれる,memisahkan; berbeda,分別（ぶんべつ）
+源,ゲン・みなもと,sumber,電源（でんげん）
+操,ソウ・あやつる,mengoperasikan,操作（そうさ）
+刷,サツ・する,mencetak,印刷（いんさつ）
+存,ソン・ゾン,menyimpan; ada,保存（ほぞん）
+削,サク・けずる,menghapus; mengikis,削除（さくじょ）
+除,ジョ・のぞく,menghapus; menyingkirkan,削除（さくじょ）
+届,とどける・とどく,mengantarkan; sampai,届ける（とどける）
+預,ヨ・あずける,menitipkan,預ける（あずける）
+取,シュ・とる,mengambil; menerima,受け取る（うけとる）
+相,ソウ・あい,saling; bersama,相談（そうだん）
+談,ダン,berbicara; konsultasi,相談（そうだん）
+十,ジュウ・とお,sepuluh,十分（じゅうぶん）
+普,フ,umum; biasa,普通（ふつう）
+初,ショ・はじめ,awal; pertama,最初（さいしょ）
+将,ショウ,masa depan; memimpin,将来（しょうらい）
+機,キ,mesin; kesempatan,機会（きかい）
+成,セイ・なる,menjadi; berhasil,成功（せいこう）
+功,コウ,prestasi; keberhasilan,成功（せいこう）
+失,シツ・うしなう,kehilangan; gagal,失敗（しっぱい）
+敗,ハイ・やぶれる,kalah; gagal,失敗（しっぱい）
+努,ド・つとめる,berusaha,努力（どりょく）
+標,ヒョウ,tanda; target,目標（もくひょう）
+自,ジ・みずから,diri sendiri,自信（じしん）
+念,ネン,pikiran; perasaan,残念（ざんねん）
+楽,ガク・たのしい,senang; musik,楽しみ（たのしみ）
+丁,チョウ,sopan; teliti,丁寧（ていねい）
+寧,ネイ,tenang; sopan,丁寧（ていねい）
+正,セイ・ただしい,benar,正確（せいかく）
+複,フク,ganda; kompleks,複雑（ふくざつ）
+雑,ザツ・ゾウ,bercampur; rumit,複雑（ふくざつ）
+簡,カン,sederhana,簡単（かんたん）
+単,タン,tunggal; sederhana,簡単（かんたん）
+不,フ・ブ,tidak; non-,不便（ふべん）
+静,セイ・しずか,tenang,静か（しずか）
+厳,ゲン・きびしい,ketat; keras,厳しい（きびしい）
+柔,ジュウ・やわらかい,lembut,柔らかい（やわらかい）
+固,コ・かたい,keras; kokoh,固い（かたい）
+濡,ぬれる,basah,濡れる（ぬれる）
+乾,カン・かわく,kering,乾く（かわく）
+汚,オ・よごれる,kotor,汚れる（よごれる）
+用,ヨウ・もちいる,keperluan; menggunakan,用意（ようい）
+以,イ,dengan; sejak; lebih dari,以内（いない）
+内,ナイ・うち,dalam,以内（いない）
+途,ト,jalan; perjalanan,途中（とちゅう）
+論,ロン,argumen; teori,議論（ぎろん）
+題,ダイ,judul; soal,問題（もんだい）
+解,カイ・とく,memecahkan; memahami,解決（かいけつ）
+決,ケツ・きめる,memutuskan,決める（きめる）
+束,ソク・たば,ikat; berkas,約束（やくそく）
+利,リ,manfaat; keuntungan,利用（りよう）
+更,コウ・さら,memperbarui,変更（へんこう）
+協,キョウ,kerja sama,協力（きょうりょく）
+査,サ,pemeriksaan; penyelidikan,調査（ちょうさ）
+識,シキ,pengetahuan; mengenali,知識（ちしき）
+参,サン・まいる,ikut serta; datang (rendah hati),参加（さんか）
+選,セン・えらぶ,memilih,選ぶ（えらぶ）
+続,ゾク・つづく・つづける,berlanjut; meneruskan,続ける（つづける）
+濯,タク,mencuci (muncul dalam kata majemuk),洗濯（せんたく）
+応,オウ・こたえる,menanggapi; merespons,応募（おうぼ）
+割,カツ・わる・われる,membagi; memecahkan; diskon,割引（わりびき）
+禁,キン,larangan,禁煙（きんえん）
+煙,エン・けむり,asap,喫煙（きつえん）
+横,オウ・よこ,samping; horizontal,横断歩道（おうだんほどう）
+保,ホ・たもつ,menjaga; melindungi,保険（ほけん）
+免,メン・まぬかれる,membebaskan; izin,免許（めんきょ）
+許,キョ・ゆるす,mengizinkan,免許（めんきょ）
+使,シ・つかう,menggunakan,使う（つかう）
+待,タイ・まつ,menunggu,待つ（まつ）
+符,フ,tanda; tiket,切符（きっぷ）
+到,トウ・いたる,tiba; mencapai,到着（とうちゃく）
+発,ハツ・たつ,berangkat; memancarkan,出発（しゅっぱつ）
+締,テイ・しめる,mengencangkan; menutup,締切（しめきり）
+渋,ジュウ・しぶい,macet; sepat,渋滞（じゅうたい）
+滞,タイ・とどこおる,tertahan; tersendat,渋滞（じゅうたい）
+扱,あつかう・あつかい,menangani; memperlakukan,取り扱う（とりあつかう）
+引,ひく・ひき,menarik; mengurangi,引き出す（ひきだす）
+領,りょう,wilayah; menerima (dalam gabungan),領収書（りょうしゅうしょ）
+収,おさめる・しゅう,menerima; mengumpulkan,領収書（りょうしゅうしょ）
+売,バイ・うる,menjual,売る（うる）
+物,ブツ・もの,benda; barang,買い物（かいもの）
+転,テン,berputar; berpindah,運転（うんてん）
+野,ヤ・の,lapangan; liar,野菜（やさい）
+言,ゲン・いう,berkata,言う（いう）
+字,ジ,huruf,漢字（かんじ）
+漢,カン,Tiongkok; kanji,漢字（かんじ）
+災,サイ,bencana,災害（さいがい）
+害,ガイ,kerugian; bahaya,災害（さいがい）
+洪,コウ,banjir besar,洪水（こうずい）
+救,キュウ・すくう,menyelamatkan,救急車（きゅうきゅうしゃ）
+療,リョウ,pengobatan,治療（ちりょう）
+治,チ・なおす,menyembuhkan; mengatur,治る（なおる）
+症,ショウ,gejala penyakit,症状（しょうじょう）
+状,ジョウ,keadaan; kondisi,症状（しょうじょう）
+栄,エイ・さかえる,kemakmuran; nutrisi,栄養（えいよう）
+養,ヨウ・やしなう,memelihara; nutrisi,栄養（えいよう）
+賃,チン,sewa; upah,家賃（やちん）
+契,ケイ,perjanjian,契約（けいやく）
+請,セイ・こ,memohon,申請（しんせい）
+達,タツ,mencapai; mengantar,配達（はいたつ）
+貨,カ,barang; mata uang,貨物（かもつ）
+冷,レイ・つめたい,dingin,冷蔵庫（れいぞうこ）
+蔵,ゾウ・くら,menyimpan,冷蔵庫（れいぞうこ）
+械,カイ,mesin,機械（きかい）
+燥,ソウ,kering,乾燥（かんそう）
+環,カン,lingkungan; lingkaran,環境（かんきょう）
+境,キョウ・さかい,batas; lingkungan,環境（かんきょう）
+温,オン・あたたかい,hangat,温度（おんど）
+度,ド・たび,derajat; kali,温度（おんど）
+湿,シツ・しめる,lembap,湿度（しつど）
+路,ロ,jalan; rute,道路（どうろ）
+駐,チュウ,parkir; tinggal,駐車場（ちゅうしゃじょう）
+券,ケン,tiket; kupon,定期券（ていきけん）
+改,カイ・あらためる,mengubah; memperbarui,改札（かいさつ）
+札,サツ・ふだ,tanda; tiket,改札（かいさつ）
+荷,カ・に,barang bawaan,荷物（にもつ）
+封,フウ,segel; amplop,封筒（ふうとう）
+筒,トウ・つつ,tabung,封筒（ふうとう）
+充,ジュウ・みちる,mengisi,充電（じゅうでん）
+止,シ・とまる,berhenti,禁止（きんし）
+非,ヒ・あらず,bukan; darurat,非常口（ひじょうぐち）
+常,ジョウ・つね,biasa; selalu,非常（ひじょう）
+警,ケイ,peringatan; polisi,警察（けいさつ）
+消,ショウ・けす,memadamkan,消防署（しょうぼうしょ）
+防,ボウ・ふせぐ,mencegah,消防署（しょうぼうしょ）
+署,ショ,kantor; pos,消防署（しょうぼうしょ）
+歯,シ・は,gigi,歯医者（はいしゃ）
+慣,カン・なれる,kebiasaan,習慣（しゅうかん）
+法,ホウ,hukum; cara,法律（ほうりつ）
+律,リツ,aturan; hukum,法律（ほうりつ）
+則,ソク,aturan,規則（きそく）
+規,キ,aturan; standar,規則（きそく）
+親,シン・おや,orang tua; akrab,親切（しんせつ）
+面,メン・おもて,permukaan; wajah,面接（めんせつ）
+接,セツ・つぐ,bersentuhan; wawancara,面接（めんせつ）
+趣,シュ・おもむき,hobi; minat,趣味（しゅみ）
+性,セイ,sifat; jenis kelamin,性格（せいかく）
+夢,ム・ゆめ,mimpi,夢（ゆめ）
+績,セキ,hasil; nilai,成績（せいせき）
+卒,ソツ,lulus,卒業（そつぎょう）
+留,リュウ・とめる,tinggal; menahan,留学（りゅうがく）
+訳,ヤク・わけ,terjemahan; alasan,翻訳（ほんやく）
+表,ヒョウ・おもて,menyatakan; permukaan,表現（ひょうげん）
+聴,チョウ・きく,mendengarkan,聴解（ちょうかい）
+末,マツ・すえ,akhir,週末（しゅうまつ）
+祝,シュク・いわう,merayakan,祝日（しゅくじつ）
+再,サイ・ふたたび,lagi; kembali,再来週（さらいしゅう）
+昔,むかし,dahulu,昔（むかし）
+自由,ジユウ,bebas,自由（じゆう）
+興,キョウ・おこる,minat; bangkit,興味（きょうみ）
+短,タン・みじかい,pendek; kekurangan,短所（たんしょ）
+考,コウ・かんがえる,berpikir,考える（かんがえる）
+善,ゼン・よい,baik,改善（かいぜん）
+感,カン,perasaan,感謝（かんしゃ）
+謝,シャ・あやまる,berterima kasih; meminta maaf,感謝（かんしゃ）
+尊,ソン・たっとい,menghormati,尊敬（そんけい）
+敬,ケイ・うやまう,menghormati,尊敬（そんけい）
+頼,ライ・たよる,meminta; mengandalkan,信頼（しんらい）
+賛,サン,setuju,賛成（さんせい）
+反,ハン・そる,berlawanan,反対（はんたい）
+納,ノウ・おさめる,menerima; memahami,納得（なっとく）
+得,トク・える,mendapat,納得（なっとく）
+結,ケツ・むすぶ,mengikat; menyimpulkan,結論（けつろん）
+例,レイ・たとえる,contoh,例えば（たとえば）
+挙,キョ・あげる,mengangkat; menyebut,例を挙げる（れいをあげる）
+諦,テイ・あきらめる,menyerah,諦める（あきらめる）
+集,シュウ・あつまる,berkumpul,集中（しゅうちゅう）
+振,シン・ふる,menggoyang; menoleh,振り返る（ふりかえる）
+進,シン・すすむ,maju,進歩（しんぽ）
+回,カイ・まわる,putaran; kembali,回収（かいしゅう）
+崩,ホウ・くずれる,runtuh; terganggu,体調を崩す（たいちょうをくずす）
+測,ソク・はかる,mengukur,測る（はかる）
+圧,アツ,tekanan,血圧（けつあつ）
+血,ケツ・ち,darah,血圧（けつあつ）
+染,セン・そまる,terinfeksi; mewarnai,感染（かんせん）
+毒,ドク,racun,消毒（しょうどく）
+動,ドウ・うごく,bergerak,運動（うんどう）
+過,カ・すぎる,berlebihan; melewati,食べ過ぎる（たべすぎる）
+緊,キン,tegang,緊張（きんちょう）
+張,チョウ・はる,menegangkan; merentang,緊張（きんちょう）
+寂,ジャク・さびしい,kesepian,寂しい（さびしい）
+憧,ショウ・あこがれる,mengagumi,憧れる（あこがれる）
+我,ガ・われ,diri,我慢（がまん）
+慢,マン,menahan diri; sombong,我慢（がまん）
+慮,リョ,pertimbangan,遠慮（えんりょ）
+喧,ケン,berisik; bertengkar,喧嘩（けんか）
+嘩,カ,pertengkaran,喧嘩（けんか）
+仲,チュウ・なか,hubungan,仲直り（なかなおり）
+撮,サツ・とる,memotret,写真を撮る（しゃしんをとる）
+録,ロク,rekaman,録音（ろくおん）
+画,ガ・カク,gambar; video,録画（ろくが）
+貼,チョウ・はる,menempel,貼る（はる）
+折,セツ・おる,melipat; patah,折る（おる）
+磨,マ・みがく,menggosok,磨く（みがく）
+拭,ショク・ふく,mengelap,拭く（ふく）
+干,カン・ほす,menjemur,干す（ほす）
+戸,コ・と,pintu,戸締まり（とじまり）
+速,ソク・はやい,cepat,速度（そくど）
+譲,ジョウ・ゆずる,memberi jalan,譲る（ゆずる）
+違,イ・ちがう,berbeda; melanggar,違反（いはん）
+期,キ,periode,定期券（ていきけん）
+越,エツ・こす,melewati,乗り越す（のりこす）
+迷,メイ・まよう,tersesat,迷子（まいご）
+的,テキ・まと,target; akhiran sifat,目的地（もくてきち）
+造,ゾウ・つくる,membuat,荷造り（にづくり）
+税,ゼイ,pajak,税関（ぜいかん）
+関,カン・せき,hubungan; pos pemeriksaan,税関（ぜいかん）
+両,リョウ,dua; kedua,両替（りょうがえ）
+替,タイ・かえる,menukar,両替（りょうがえ）
+算,サン・かぞえる,menghitung,予算（よさん）
+浪,ロウ,ombak; boros,浪費（ろうひ）
+借,シャク・かりる,meminjam,借金（しゃっきん）
+損,ソン,rugi,損する（そんする）
+採,サイ・とる,memilih; merekrut,採用（さいよう）
+職,ショク,pekerjaan,退職（たいしょく）
+就,シュウ・つく,memulai pekerjaan,就職（しゅうしょく）
+暇,カ・ひま,waktu luang; cuti,休暇（きゅうか）
+靴,くつ,sepatu,安全靴（あんぜんぐつ）
+袋,タイ・ふくろ,kantong,手袋（てぶくろ）
+具,グ,alat,工具（こうぐ）
+製,セイ,produksi,製品（せいひん）
+材,ザイ,bahan,材料（ざいりょう）
+組,ソ・くむ,merakit; kelompok,組み立てる（くみたてる）
+順,ジュン,urutan,順番（じゅんばん）
+化,カ・ばける,perubahan,文化（ぶんか）
+礼,レイ,sopan; salam,失礼（しつれい）
